@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "3.0.*",
+        "slim/views": "0.1.*",
+        "twig/twig": "~2.0",
+        "phpmailer/phpmailer": "~6.0",
+        "hassankhan/config": "1.1.*",
+        "illuminate/support": "~5.6",
+        "illuminate/database": "~5.6",
+        "alexgarrett/violin": "2.2.*",
+        "ircmaxell/random-lib": "~1.2"
+    }
+}
